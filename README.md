@@ -9,5 +9,10 @@
 
 # task1 
  design profile page using HTML and CSS, javascript
-
+  ## features?
+  - header section
+- home section
+- services section  
+- portfolio section
+- contact section
   
